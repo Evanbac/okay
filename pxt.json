@@ -1,0 +1,25 @@
+{
+    "name": "ok",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Unit Project": "github:alex0364106/unit-project#7b47ce98dbdd92abc326f8f453be5b8a4268e98d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.47",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
